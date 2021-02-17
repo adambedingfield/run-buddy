@@ -77,15 +77,6 @@ section {
     padding: 60px;
 }
 
-.hero-secondary {
-    background-image: url(../images/hero-bg.jpg);
-    height: 200px;
-    background-size: cover;
-    background-position: bottom;
-    position: relative;
-    padding: 60px;
-}
-
 .hero-form {
     background-color: #fce138;
     padding: 20px;
